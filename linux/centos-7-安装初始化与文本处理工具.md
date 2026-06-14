@@ -45,6 +45,7 @@ Has:
   - "[[sed]]"
   - "[[awk]]"
   - "[[正则表达式]]"
+_organized: true
 ---
 # CentOS 7 安装初始化与文本处理工具
 
