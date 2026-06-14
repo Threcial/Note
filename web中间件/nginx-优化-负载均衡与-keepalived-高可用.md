@@ -44,6 +44,7 @@ Has:
   - "[[VRRP]]"
   - "[[VIP]]"
   - "[[裂脑]]"
+_organized: true
 ---
 # Nginx 优化、负载均衡与 Keepalived 高可用
 
