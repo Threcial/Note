@@ -51,6 +51,7 @@ Has:
   - "[[ssh-keygen]]"
   - "[[ssh-copy-id]]"
   - "[[rsync]]"
+_organized: true
 ---
 # firewalld、防火墙区域、后台任务与远程传输
 
