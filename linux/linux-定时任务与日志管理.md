@@ -1,19 +1,18 @@
 ---
-type: knowledge
-status: evergreen
-created: 2026-06-13
-updated: 2026-06-13
-related_to:
-  - "[[Linux 运维基础]]"
+type: Concept
+status: Organized
+Belongs to: "[[Linux]]"
+Related to:
   - "[[任务自动化]]"
   - "[[日志管理]]"
-has:
-  - "[[/dev/null]]"
+Has:
   - "[[crond]]"
   - "[[crontab]]"
   - "[[logrotate]]"
   - "[[gzip]]"
-_organized: true
+source: ""
+created: 2026-06-13
+updated: 2026-06-13
 ---
 
 # 定时任务与日志管理

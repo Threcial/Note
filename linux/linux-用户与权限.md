@@ -1,15 +1,12 @@
 ---
-type: knowledge
-status: evergreen
-created: 2026-06-13
-updated: 2026-06-13
-related_to:
-  - "[[Linux 运维基础]]"
+type: Concept
+status: Organized
+Belongs to: "[[Linux]]"
+Related to:
   - "[[权限管理]]"
-has:
+Has:
   - "[[useradd]]"
   - "[[passwd]]"
-  - "[[gpasswd]]"
   - "[[chmod]]"
   - "[[chown]]"
   - "[[chattr]]"
@@ -18,7 +15,9 @@ has:
   - "[[SGID]]"
   - "[[粘滞位]]"
   - "[[sudo]]"
-_organized: true
+source: ""
+created: 2026-06-13
+updated: 2026-06-13
 ---
 
 # Linux 用户与权限

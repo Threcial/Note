@@ -1,17 +1,13 @@
 ---
-type: knowledge
-status: evergreen
-created: 2026-06-13
-updated: 2026-06-13
-related_to:
-  - "[[Linux 运维基础]]"
-  - "[[网络安全]]"
-has:
+type: Reference
+status: Organized
+Belongs to: "[[Network]]"
+Has:
   - "[[firewalld]]"
   - "[[firewall-cmd]]"
-  - "[[firewalld zone]]"
-  - "[[rich rule]]"
-_organized: true
+source: ""
+created: 2026-06-13
+updated: 2026-06-13
 ---
 
 # firewalld 防火墙

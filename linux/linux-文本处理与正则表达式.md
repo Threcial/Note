@@ -1,12 +1,10 @@
 ---
-type: knowledge
-status: evergreen
-created: 2026-06-13
-updated: 2026-06-13
-related_to:
+type: Concept
+status: Organized
+Belongs to: "[[Linux]]"
+Related to:
   - "[[linux-基础命令]]"
-  - "[[文本处理]]"
-has:
+Has:
   - "[[sort]]"
   - "[[uniq]]"
   - "[[wc]]"
@@ -14,7 +12,9 @@ has:
   - "[[sed]]"
   - "[[awk]]"
   - "[[正则表达式]]"
-_organized: true
+source: ""
+created: 2026-06-13
+updated: 2026-06-13
 ---
 
 # 文本处理与正则表达式

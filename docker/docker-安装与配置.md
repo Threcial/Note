@@ -1,12 +1,12 @@
 ---
-type: knowledge
-status: evergreen
+type: Practice
+status: Organized
+Belongs to: "[[Docker]]"
+Related to:
+  - "[[docker-基础概念]]"
+source: ""
 created: 2026-06-14
 updated: 2026-06-14
-related_to:
-  - "[[docker-基础概念]]"
-  - "[[Docker]]"
-_organized: true
 ---
 
 # Docker 安装与配置

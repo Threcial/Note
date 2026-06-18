@@ -1,47 +1,20 @@
 ---
-title: Zabbix 5.0 安装、Agent、自定义监控与报警配置
-type: knowledge
-status: evergreen
+type: Practice
+status: Organized
 source: day25.md
 created: 2026-06-14
 updated: 2026-06-14
-tags:
-  - Zabbix
-  - 监控
-  - CentOS7
-  - zabbix-agent
-  - 自定义监控项
-  - Nginx监控
-  - Web场景监控
-  - 报警媒介
-aliases:
-  - DAY25
-  - Zabbix 安装
-  - Zabbix Agent
-  - Zabbix 自定义监控
-  - Zabbix Nginx 监控
-Belongs to:
-  - "[[监控系统]]"
-  - "[[Linux 运维基础]]"
-  - "[[Zabbix]]"
+Belongs to: "[[Zabbix]]"
 Related to:
   - "[[Nginx]]"
   - "[[MySQL]]"
-  - "[[PHP-FPM]]"
-  - "[[MariaDB]]"
-  - "[[Linux 服务管理]]"
-  - "[[企业微信机器人]]"
 Has:
   - "[[zabbix-server]]"
   - "[[zabbix-agent]]"
-  - "[[zabbix_get]]"
   - "[[UserParameter]]"
   - "[[Zabbix 自动注册]]"
   - "[[Zabbix 触发器]]"
-  - "[[Zabbix 动作]]"
   - "[[Zabbix 报警媒介]]"
-  - "[[nginx stub_status]]"
-_organized: true
 ---
 # Zabbix 5.0 安装、Agent、自定义监控与报警配置
 

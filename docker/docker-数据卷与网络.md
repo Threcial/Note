@@ -1,18 +1,17 @@
 ---
-type: knowledge
-status: evergreen
-created: 2026-06-14
-updated: 2026-06-14
-related_to:
+type: Concept
+status: Organized
+Belongs to: "[[Docker]]"
+Related to:
   - "[[docker-命令行参考]]"
+Has:
   - "[[Docker 数据卷]]"
   - "[[Docker 网络]]"
-has:
   - "[[docker volume]]"
   - "[[docker network]]"
-  - "[[docker0]]"
-  - "[[Docker Bridge 网络]]"
-_organized: true
+source: ""
+created: 2026-06-14
+updated: 2026-06-14
 ---
 
 # Docker 数据卷与网络

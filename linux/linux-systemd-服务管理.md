@@ -1,15 +1,15 @@
 ---
-type: knowledge
-status: evergreen
-created: 2026-06-13
-updated: 2026-06-13
-related_to:
-  - "[[Linux 运维基础]]"
+type: Reference
+status: Organized
+Belongs to: "[[Linux]]"
+Related to:
   - "[[服务管理]]"
-has:
+Has:
   - "[[systemctl]]"
   - "[[systemd]]"
-_organized: true
+source: ""
+created: 2026-06-13
+updated: 2026-06-13
 ---
 
 # systemd 服务管理

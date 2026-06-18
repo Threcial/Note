@@ -1,16 +1,17 @@
 ---
-type: knowledge
-status: evergreen
-created: 2026-06-14
-updated: 2026-06-14
-related_to:
+type: Reference
+status: Organized
+Belongs to: "[[Docker]]"
+Related to:
   - "[[dockerfile-参考]]"
   - "[[docker-命令行参考]]"
   - "[[容器编排]]"
-has:
+Has:
   - "[[docker compose]]"
   - "[[compose.yaml]]"
-_organized: true
+source: ""
+created: 2026-06-14
+updated: 2026-06-14
 ---
 
 # Docker Compose 入门

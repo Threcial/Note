@@ -1,17 +1,15 @@
 ---
-type: knowledge
-status: evergreen
-created: 2026-06-13
-updated: 2026-06-13
-related_to:
-  - "[[Linux 运维基础]]"
-  - "[[CentOS 7]]"
-has:
+type: Concept
+status: Organized
+Belongs to: "[[Linux]]"
+Has:
   - "[[系统启动流程]]"
   - "[[systemd]]"
   - "[[SELinux]]"
   - "[[Linux 目录结构]]"
-_organized: true
+source: ""
+created: 2026-06-13
+updated: 2026-06-13
 ---
 
 # 系统启动与核心目录

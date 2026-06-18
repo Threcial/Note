@@ -1,21 +1,20 @@
 ---
-type: knowledge
-status: evergreen
-created: 2026-06-13
-updated: 2026-06-13
-related_to:
+type: Concept
+status: Organized
+Belongs to: "[[Linux]]"
+Related to:
   - "[[linux-磁盘与文件系统]]"
   - "[[磁盘管理]]"
-  - "[[压缩归档]]"
-has:
+Has:
   - "[[LVM]]"
   - "[[PV]]"
   - "[[VG]]"
   - "[[LV]]"
-  - "[[PE]]"
   - "[[RAID]]"
   - "[[tar]]"
-_organized: true
+source: ""
+created: 2026-06-13
+updated: 2026-06-13
 ---
 
 # LVM、RAID 与 tar

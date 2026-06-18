@@ -1,12 +1,11 @@
 ---
-type: knowledge
-status: evergreen
-created: 2026-06-14
-updated: 2026-06-14
-related_to:
+type: Command
+status: Organized
+Belongs to: "[[Docker]]"
+Related to:
   - "[[docker-基础概念]]"
   - "[[docker-数据卷与网络]]"
-has:
+Has:
   - "[[docker run]]"
   - "[[docker exec]]"
   - "[[docker ps]]"
@@ -15,7 +14,9 @@ has:
   - "[[docker save]]"
   - "[[docker load]]"
   - "[[docker cp]]"
-_organized: true
+source: ""
+created: 2026-06-14
+updated: 2026-06-14
 ---
 
 # Docker 命令行参考

@@ -1,18 +1,15 @@
 ---
-type: knowledge
-status: evergreen
-created: 2026-06-13
-updated: 2026-06-13
-related_to:
-  - "[[Linux 运维基础]]"
-  - "[[软件包管理]]"
-has:
+type: Reference
+status: Organized
+Belongs to: "[[Linux]]"
+Has:
   - "[[rpm]]"
   - "[[yum]]"
   - "[[epel]]"
   - "[[源码安装]]"
-  - "[[make]]"
-_organized: true
+source: ""
+created: 2026-06-13
+updated: 2026-06-13
 ---
 
 # 软件包管理

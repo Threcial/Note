@@ -1,12 +1,12 @@
 ---
-type: knowledge
-status: evergreen
+type: Reference
+status: Organized
+Belongs to: "[[Linux]]"
+Related to:
+  - "[[linux-基础命令]]"
+source: ""
 created: 2026-06-13
 updated: 2026-06-13
-related_to:
-  - "[[linux-基础命令]]"
-  - "[[Linux 运维基础]]"
-_organized: true
 ---
 
 # Vim 参考

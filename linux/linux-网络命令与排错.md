@@ -1,23 +1,20 @@
 ---
-type: knowledge
-status: evergreen
-created: 2026-06-13
-updated: 2026-06-13
-related_to:
+type: Reference
+status: Organized
+Belongs to: "[[Network]]"
+Related to:
   - "[[linux-网络基础]]"
-  - "[[网络排错]]"
-has:
-  - "[[netstat]]"
+Has:
   - "[[ss]]"
-  - "[[wget]]"
   - "[[curl]]"
   - "[[ip 命令]]"
   - "[[ping]]"
-  - "[[telnet]]"
   - "[[nc]]"
   - "[[traceroute]]"
   - "[[TCP 三次握手]]"
-_organized: true
+source: ""
+created: 2026-06-13
+updated: 2026-06-13
 ---
 
 # 网络命令与排错

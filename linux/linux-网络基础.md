@@ -1,20 +1,17 @@
 ---
-type: knowledge
-status: evergreen
+type: Concept
+status: Organized
+Belongs to: "[[Network]]"
+Related to:
+  - "[[linux-网络命令与排错]]"
+Has:
+  - "[[IP 地址分类]]"
+  - "[[子网掩码]]"
+  - "[[静态路由]]"
+  - "[[NAT]]"
+source: ""
 created: 2026-06-13
 updated: 2026-06-13
-related_to:
-  - "[[网络基础]]"
-  - "[[linux-网络命令与排错]]"
-has:
-  - "[[IP 地址分类]]"
-  - "[[私有地址]]"
-  - "[[子网掩码]]"
-  - "[[route 命令]]"
-  - "[[静态路由]]"
-  - "[[虚拟 IP]]"
-  - "[[NAT]]"
-_organized: true
 ---
 
 # 网络基础

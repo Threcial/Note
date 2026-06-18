@@ -1,49 +1,20 @@
 ---
-title: MySQL 基础、安装配置与 SQL 基础语句
-type: knowledge
-status: evergreen
+type: Reference
+status: Organized
 source: day19.md
 created: 2026-06-14
 updated: 2026-06-14
-tags:
-  - Linux
-  - CentOS7
-  - MySQL
-  - SQL
-  - 数据库
-  - DDL
-  - DML
-  - DQL
-aliases:
-  - DAY19
-  - MySQL 基础
-  - SQL 基础
-  - MySQL 5.7 安装
-  - DDL DML DQL
-Belongs to:
-  - "[[MySQL]]"
-  - "[[数据库]]"
+Belongs to: "[[MySQL]]"
 Related to:
   - "[[Linux 软件包管理]]"
-  - "[[RPM]]"
-  - "[[YUM]]"
-  - "[[Linux 文件系统]]"
   - "[[字符集]]"
-  - "[[数据库设计]]"
 Has:
-  - "[[数据库]]"
-  - "[[DBMS]]"
   - "[[SQL]]"
   - "[[MySQL 字符集]]"
-  - "[[MySQL 5.7 安装]]"
   - "[[MySQL 数据类型]]"
   - "[[DDL]]"
   - "[[DML]]"
   - "[[DQL]]"
-  - "[[聚合函数]]"
-  - "[[GROUP BY]]"
-  - "[[LIMIT]]"
-_organized: true
 ---
 # MySQL 基础、安装配置与 SQL 基础语句
 

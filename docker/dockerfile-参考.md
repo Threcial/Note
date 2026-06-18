@@ -1,23 +1,21 @@
 ---
-type: knowledge
-status: evergreen
-created: 2026-06-14
-updated: 2026-06-14
-related_to:
+type: Reference
+status: Organized
+Belongs to: "[[Docker]]"
+Related to:
   - "[[docker-基础概念]]"
   - "[[docker-命令行参考]]"
-  - "[[Docker]]"
-has:
+Has:
   - "[[FROM]]"
   - "[[RUN]]"
   - "[[COPY]]"
   - "[[ADD]]"
   - "[[CMD]]"
   - "[[ENTRYPOINT]]"
-  - "[[VOLUME]]"
-  - "[[EXPOSE]]"
   - "[[docker build]]"
-_organized: true
+source: ""
+created: 2026-06-14
+updated: 2026-06-14
 ---
 
 # Dockerfile 参考

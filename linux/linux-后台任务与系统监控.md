@@ -1,20 +1,19 @@
 ---
-type: knowledge
-status: evergreen
-created: 2026-06-13
-updated: 2026-06-13
-related_to:
+type: Reference
+status: Organized
+Belongs to: "[[Linux]]"
+Related to:
   - "[[linux-进程管理]]"
-  - "[[系统监控]]"
-has:
+Has:
   - "[[nohup]]"
   - "[[jobs]]"
   - "[[uptime]]"
   - "[[free]]"
   - "[[iftop]]"
   - "[[iostat]]"
-  - "[[iotop]]"
-_organized: true
+source: ""
+created: 2026-06-13
+updated: 2026-06-13
 ---
 
 # 后台任务与系统监控

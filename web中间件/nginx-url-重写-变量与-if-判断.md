@@ -1,40 +1,18 @@
 ---
-title: Nginx URL 重写、变量与 if 判断
-type: knowledge
-status: evergreen
+type: Reference
+status: Organized
 source: day17.md
 created: 2026-06-14
 updated: 2026-06-14
-tags:
-  - Linux
-  - CentOS7
-  - Nginx
-  - rewrite
-  - URL重写
-  - 正则表达式
-aliases:
-  - DAY17
-  - Nginx rewrite
-  - Nginx URL 重写
-  - Nginx if 判断
-Belongs to:
-  - "[[Nginx]]"
+Belongs to: "[[Nginx]]"
 Related to:
   - "[[Nginx 配置文件]]"
-  - "[[Nginx location]]"
   - "[[正则表达式]]"
-  - "[[HTTP 状态码]]"
-  - "[[Nginx 反向代理]]"
 Has:
   - "[[rewrite]]"
-  - "[[permanent]]"
-  - "[[redirect]]"
-  - "[[last]]"
-  - "[[break]]"
   - "[[Nginx set]]"
   - "[[Nginx if]]"
   - "[[return]]"
-_organized: true
 ---
 # Nginx URL 重写、变量与 if 判断
 

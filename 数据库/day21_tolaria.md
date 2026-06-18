@@ -1,54 +1,21 @@
 ---
 title: MySQL 视图、存储程序、触发器、索引与 binlog 恢复
-type: knowledge
-status: evergreen
+type: Reference
+status: Organized
 source:
   - day21.md
   - day21_视图、存储过程、触发器、索引.pdf
 created: 2026-06-14
 updated: 2026-06-14
-tags:
-  - MySQL
-  - 视图
-  - 存储过程
-  - 存储函数
-  - 触发器
-  - 游标
-  - 索引
-  - binlog
-  - 备份恢复
-  - 运维基础
-aliases:
-  - DAY21
-  - MySQL 视图
-  - MySQL 存储过程
-  - MySQL 触发器
-  - MySQL 索引
-  - MySQL binlog 恢复
-Belongs to:
-  - "[[MySQL]]"
-  - "[[数据库对象]]"
-  - "[[数据库备份恢复]]"
+Belongs to: "[[MySQL]]"
 Related to:
-  - "[[SQL 基础语句]]"
-  - "[[MySQL 事务]]"
-  - "[[MySQL 权限管理]]"
   - "[[MySQL 主从复制]]"
-  - "[[mysqldump]]"
-  - "[[mysqlbinlog]]"
 Has:
   - "[[MySQL 视图]]"
-  - "[[WITH CHECK OPTION]]"
   - "[[存储过程]]"
-  - "[[存储函数]]"
-  - "[[游标]]"
-  - "[[条件处理程序]]"
   - "[[触发器]]"
   - "[[MySQL 索引]]"
   - "[[binlog]]"
-  - "[[全量备份]]"
-  - "[[增量恢复]]"
-_organized: true
 ---
 # MySQL 视图、存储程序、触发器、索引与 binlog 恢复
 

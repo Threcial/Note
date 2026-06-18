@@ -1,12 +1,10 @@
 ---
-type: knowledge
-status: evergreen
-created: 2026-06-13
-updated: 2026-06-13
-related_to:
+type: Reference
+status: Organized
+Belongs to: "[[Shell]]"
+Related to:
   - "[[shell-脚本基础]]"
-  - "[[Linux 运维自动化]]"
-has:
+Has:
   - "[[select]]"
   - "[[Shell 数组]]"
   - "[[参数展开]]"
@@ -14,11 +12,10 @@ has:
   - "[[Expect]]"
   - "[[Shell 调试]]"
   - "[[Shell 并发]]"
-  - "[[wait]]"
-  - "[[RANDOM]]"
   - "[[uuidgen]]"
-  - "[[cut]]"
-_organized: true
+source: ""
+created: 2026-06-13
+updated: 2026-06-13
 ---
 
 # Shell 脚本进阶

@@ -1,16 +1,16 @@
 ---
-type: knowledge
-status: evergreen
-created: 2026-06-13
-updated: 2026-06-13
-related_to:
+type: Practice
+status: Organized
+Belongs to: "[[Linux]]"
+Related to:
   - "[[linux-网络命令与排错]]"
-  - "[[远程运维]]"
-has:
+Has:
   - "[[ssh-keygen]]"
   - "[[ssh-copy-id]]"
   - "[[rsync]]"
-_organized: true
+source: ""
+created: 2026-06-13
+updated: 2026-06-13
 ---
 
 # 远程连接与文件同步

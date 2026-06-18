@@ -1,13 +1,12 @@
 ---
-type: knowledge
-status: evergreen
+type: Practice
+status: Organized
+Belongs to: "[[Linux]]"
+Related to:
+  - "[[linux-软件包管理]]"
+source: ""
 created: 2026-06-13
 updated: 2026-06-13
-related_to:
-  - "[[Linux 运维基础]]"
-  - "[[CentOS 7]]"
-  - "[[linux-软件包管理]]"
-_organized: true
 ---
 
 # 安装与初始化

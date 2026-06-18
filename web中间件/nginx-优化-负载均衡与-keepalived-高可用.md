@@ -1,50 +1,18 @@
 ---
-title: Nginx 优化、负载均衡与 Keepalived 高可用
-type: knowledge
-status: evergreen
+type: Concept
+status: Organized
 source: day18.md
 created: 2026-06-14
 updated: 2026-06-14
-tags:
-  - Linux
-  - CentOS7
-  - Nginx
-  - 性能优化
-  - 负载均衡
-  - Keepalived
-  - 高可用
-  - VRRP
-aliases:
-  - DAY18
-  - Nginx 优化
-  - Nginx 负载均衡
-  - Keepalived 高可用
-  - Nginx HA
-Belongs to:
-  - "[[Nginx]]"
-  - "[[高可用架构]]"
+Belongs to: "[[Nginx]]"
 Related to:
-  - "[[Nginx 配置文件]]"
+  - "[[高可用架构]]"
   - "[[Nginx 反向代理]]"
-  - "[[TCP 三次握手]]"
-  - "[[Linux 进程]]"
-  - "[[systemd 服务管理]]"
-  - "[[云负载均衡]]"
 Has:
-  - "[[worker_processes]]"
-  - "[[worker_connections]]"
-  - "[[gzip]]"
-  - "[[keepalive]]"
   - "[[upstream]]"
-  - "[[ip_hash]]"
-  - "[[weight]]"
-  - "[[backup]]"
-  - "[[down]]"
   - "[[Keepalived]]"
   - "[[VRRP]]"
-  - "[[VIP]]"
-  - "[[裂脑]]"
-_organized: true
+  - "[[gzip]]"
 ---
 # Nginx 优化、负载均衡与 Keepalived 高可用
 

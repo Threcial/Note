@@ -1,43 +1,18 @@
 ---
-title: Tomcat 部署、配置文件与多实例
-type: knowledge
-status: evergreen
+type: Practice
+status: Organized
 source: day18_tomcat.md
 created: 2026-06-14
 updated: 2026-06-14
-tags:
-  - Linux
-  - CentOS7
-  - Tomcat
-  - JDK
-  - Java
-  - Web服务
-  - 多实例
-aliases:
-  - DAY18 Tomcat
-  - Tomcat 基础
-  - Tomcat 多实例
-  - JDK 部署
-Belongs to:
-  - "[[Java Web 服务]]"
-  - "[[Tomcat]]"
+Belongs to: "[[Tomcat]]"
 Related to:
   - "[[Nginx 反向代理]]"
   - "[[JDK]]"
   - "[[systemd 服务管理]]"
-  - "[[Linux 进程]]"
-  - "[[Linux 端口]]"
 Has:
-  - "[[Tomcat 安装]]"
-  - "[[JDK 环境变量]]"
-  - "[[catalina.sh]]"
   - "[[server.xml]]"
-  - "[[web.xml]]"
-  - "[[tomcat-users.xml]]"
   - "[[Tomcat 多实例]]"
   - "[[Tomcat 端口]]"
-  - "[[jmap]]"
-_organized: true
 ---
 # Tomcat 部署、配置文件与多实例
 

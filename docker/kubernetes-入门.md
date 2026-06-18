@@ -1,14 +1,14 @@
 ---
-type: knowledge
-status: evergreen
-created: 2026-06-14
-updated: 2026-06-14
-related_to:
+type: Concept
+status: Organized
+Belongs to: "[[Kubernetes]]"
+Related to:
   - "[[docker-compose-入门]]"
   - "[[dockerfile-参考]]"
   - "[[容器编排]]"
-  - "[[Kubernetes]]"
-_organized: true
+source: ""
+created: 2026-06-14
+updated: 2026-06-14
 ---
 
 # Kubernetes 入门

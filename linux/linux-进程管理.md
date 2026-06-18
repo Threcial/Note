@@ -1,18 +1,18 @@
 ---
-type: knowledge
-status: evergreen
-created: 2026-06-13
-updated: 2026-06-13
-related_to:
+type: Reference
+status: Organized
+Belongs to: "[[Linux]]"
+Related to:
   - "[[linux-systemd-服务管理]]"
   - "[[进程管理]]"
-has:
+Has:
   - "[[ps]]"
   - "[[top]]"
   - "[[kill]]"
   - "[[lsof]]"
-  - "[[pstree]]"
-_organized: true
+source: ""
+created: 2026-06-13
+updated: 2026-06-13
 ---
 
 # 进程管理

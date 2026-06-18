@@ -1,17 +1,16 @@
 ---
-type: knowledge
-status: evergreen
-created: 2026-06-14
-updated: 2026-06-14
-related_to:
+type: Concept
+status: Organized
+Belongs to: "[[Docker]]"
+Related to:
   - "[[容器技术]]"
-  - "[[Linux 运维基础]]"
-  - "[[Docker]]"
-has:
+Has:
   - "[[Docker Image]]"
   - "[[Docker Container]]"
   - "[[Docker Repository]]"
-_organized: true
+source: ""
+created: 2026-06-14
+updated: 2026-06-14
 ---
 
 # Docker 基础概念

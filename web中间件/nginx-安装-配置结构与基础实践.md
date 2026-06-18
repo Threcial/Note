@@ -1,50 +1,21 @@
 ---
-title: Nginx 安装、配置结构与基础实践
-type: knowledge
-status: evergreen
+type: Practice
+status: Organized
 source: day16.md
 created: 2026-06-14
 updated: 2026-06-14
-tags:
-  - Linux
-  - CentOS7
-  - Nginx
-  - Web服务
-  - 反向代理
-  - 虚拟主机
-  - 访问控制
-  - 日志管理
-aliases:
-  - DAY16
-  - Nginx 基础
-  - Nginx 安装
-  - Nginx 配置文件
-  - Nginx 反向代理
 Belongs to:
-  - "[[Linux Web 服务]]"
   - "[[Nginx]]"
 Related to:
   - "[[Linux 软件包管理]]"
-  - "[[源码安装]]"
   - "[[systemd 服务管理]]"
-  - "[[firewalld]]"
-  - "[[SELinux]]"
   - "[[HTTP 协议]]"
-  - "[[TCP 端口]]"
-  - "[[Linux 日志]]"
-  - "[[正则表达式]]"
 Has:
-  - "[[Nginx 安装]]"
   - "[[Nginx 配置文件]]"
-  - "[[Nginx 命令]]"
-  - "[[Nginx 访问控制]]"
-  - "[[Nginx 用户认证]]"
-  - "[[Nginx 防盗链]]"
   - "[[Nginx 虚拟主机]]"
-  - "[[Nginx 日志]]"
   - "[[Nginx 反向代理]]"
-  - "[[Nginx 限速]]"
-_organized: true
+  - "[[Nginx 日志]]"
+  - "[[Nginx 访问控制]]"
 ---
 # Nginx 安装、配置结构与基础实践
 

@@ -1,47 +1,19 @@
 ---
 title: MySQL 慢查询、存储引擎、InnoDB 参数与主从复制
-type: knowledge
-status: evergreen
+type: Reference
+status: Organized
 source: day23.md
 created: 2026-06-14
 updated: 2026-06-14
-tags:
-  - MySQL
-  - 慢查询
-  - mysqldumpslow
-  - InnoDB
-  - 存储引擎
-  - 主从复制
-  - 读写分离
-  - 数据库性能
-aliases:
-  - DAY23
-  - MySQL 慢查询
-  - MySQL 存储引擎
-  - InnoDB 参数
-  - MySQL 主从复制
-Belongs to:
-  - "[[MySQL]]"
-  - "[[数据库性能优化]]"
-  - "[[数据库高可用]]"
+Belongs to: "[[MySQL]]"
 Related to:
-  - "[[MySQL binlog]]"
-  - "[[mysqldump]]"
   - "[[MySQL 索引]]"
   - "[[MySQL 事务]]"
-  - "[[Zabbix MySQL 监控]]"
 Has:
   - "[[慢查询日志]]"
-  - "[[mysqldumpslow]]"
-  - "[[pt-query-digest]]"
   - "[[InnoDB]]"
-  - "[[MyISAM]]"
-  - "[[Memory 存储引擎]]"
-  - "[[innodb_buffer_pool_size]]"
   - "[[主从复制]]"
   - "[[relay log]]"
-  - "[[读写分离]]"
-_organized: true
 ---
 # MySQL 慢查询、存储引擎、InnoDB 参数与主从复制
 

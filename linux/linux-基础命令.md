@@ -1,25 +1,21 @@
 ---
-type: knowledge
-status: evergreen
-created: 2026-06-13
-updated: 2026-06-13
-related_to:
-  - "[[Linux 运维基础]]"
-  - "[[CentOS 7]]"
-has:
+type: Command
+status: Organized
+Belongs to: "[[Linux]]"
+Has:
   - "[[ls]]"
   - "[[cd]]"
   - "[[cp]]"
   - "[[mv]]"
   - "[[rm]]"
-  - "[[cat]]"
-  - "[[less]]"
   - "[[find]]"
   - "[[locate]]"
   - "[[stat]]"
   - "[[date]]"
   - "[[alias]]"
-_organized: true
+source: ""
+created: 2026-06-13
+updated: 2026-06-13
 ---
 
 # Linux 基础命令

@@ -1,53 +1,22 @@
 ---
-title: MySQL 约束、表关系、多表查询与事务管理
-type: knowledge
-status: evergreen
+type: Reference
+status: Organized
 source: day20.md
 created: 2026-06-14
 updated: 2026-06-14
-tags:
-  - Linux
-  - CentOS7
-  - MySQL
-  - SQL
-  - 约束
-  - 多表查询
-  - 事务
-  - 备份恢复
-aliases:
-  - DAY20
-  - MySQL 高级
-  - MySQL 约束
-  - MySQL 多表查询
-  - MySQL 事务
-Belongs to:
-  - "[[MySQL]]"
-  - "[[数据库]]"
+Belongs to: "[[MySQL]]"
 Related to:
-  - "[[SQL 基础]]"
-  - "[[DDL]]"
-  - "[[DML]]"
-  - "[[DQL]]"
   - "[[MySQL 用户权限]]"
-  - "[[MySQL 备份恢复]]"
 Has:
-  - "[[非空约束]]"
-  - "[[唯一约束]]"
-  - "[[主键约束]]"
-  - "[[默认约束]]"
   - "[[外键约束]]"
   - "[[一对多]]"
   - "[[多对多]]"
-  - "[[一对一]]"
   - "[[内连接]]"
   - "[[外连接]]"
   - "[[子查询]]"
   - "[[事务]]"
   - "[[ACID]]"
   - "[[mysqldump]]"
-  - "[[source 恢复]]"
-  - "[[MySQL 用户管理]]"
-_organized: true
 ---
 # MySQL 约束、表关系、多表查询与事务管理
 

@@ -1,12 +1,13 @@
 ---
-type: knowledge
-status: evergreen
-created: 2026-06-13
-updated: 2026-06-13
-related_to:
+type: Concept
+status: Organized
+Belongs to: "[[Linux]]"
+Related to:
   - "[[linux-基础命令]]"
   - "[[Shell 重定向]]"
-_organized: true
+source: ""
+created: 2026-06-13
+updated: 2026-06-13
 ---
 
 # 重定向与管道

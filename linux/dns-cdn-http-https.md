@@ -1,18 +1,17 @@
 ---
-type: knowledge
-status: evergreen
-created: 2026-06-13
-updated: 2026-06-13
-related_to:
-  - "[[网络基础]]"
+type: Concept
+status: Organized
+Belongs to: "[[Network]]"
+Related to:
   - "[[Web 服务]]"
-has:
+Has:
   - "[[DNS]]"
   - "[[CDN]]"
   - "[[HTTP]]"
   - "[[HTTPS]]"
-  - "[[TLS]]"
-_organized: true
+source: ""
+created: 2026-06-13
+updated: 2026-06-13
 ---
 
 # DNS、CDN、HTTP、HTTPS

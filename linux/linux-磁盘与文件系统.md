@@ -1,13 +1,11 @@
 ---
-type: knowledge
-status: evergreen
-created: 2026-06-13
-updated: 2026-06-13
-related_to:
-  - "[[Linux 运维基础]]"
+type: Concept
+status: Organized
+Belongs to: "[[Linux]]"
+Related to:
   - "[[磁盘管理]]"
   - "[[文件系统]]"
-has:
+Has:
   - "[[inode]]"
   - "[[软链接]]"
   - "[[硬链接]]"
@@ -15,7 +13,9 @@ has:
   - "[[mount]]"
   - "[[swap]]"
   - "[[fstab]]"
-_organized: true
+source: ""
+created: 2026-06-13
+updated: 2026-06-13
 ---
 
 # 磁盘与文件系统

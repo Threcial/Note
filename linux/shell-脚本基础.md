@@ -1,24 +1,22 @@
 ---
-type: knowledge
-status: evergreen
-created: 2026-06-13
-updated: 2026-06-13
-related_to:
-  - "[[Shell 编程]]"
+type: Reference
+status: Organized
+Belongs to: "[[Shell]]"
+Related to:
   - "[[linux-文本处理与正则表达式]]"
-has:
-  - "[[bash]]"
+Has:
   - "[[Shell 变量]]"
   - "[[环境变量]]"
   - "[[位置参数]]"
   - "[[exit]]"
   - "[[read]]"
-  - "[[test]]"
   - "[[if]]"
   - "[[case]]"
   - "[[while]]"
   - "[[for]]"
-_organized: true
+source: ""
+created: 2026-06-13
+updated: 2026-06-13
 ---
 
 # Shell 脚本基础

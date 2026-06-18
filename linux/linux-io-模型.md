@@ -1,18 +1,17 @@
 ---
-type: knowledge
-status: evergreen
-created: 2026-06-13
-updated: 2026-06-13
-related_to:
+type: Concept
+status: Organized
+Belongs to: "[[Linux]]"
+Related to:
   - "[[Linux 系统原理]]"
   - "[[dns-cdn-http-https]]"
-has:
-  - "[[select]]"
-  - "[[poll]]"
+Has:
   - "[[epoll]]"
   - "[[红黑树]]"
   - "[[Page Cache]]"
-_organized: true
+source: ""
+created: 2026-06-13
+updated: 2026-06-13
 ---
 
 # Linux I/O 模型
