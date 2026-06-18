@@ -1,6 +1,5 @@
 ---
 title: MySQL 慢查询、存储引擎、InnoDB 参数与主从复制
-type: Reference
 status: Organized
 source: day23.md
 created: 2026-06-14
@@ -14,6 +13,7 @@ Has:
   - "[[InnoDB]]"
   - "[[主从复制]]"
   - "[[relay log]]"
+type: Reference
 ---
 # MySQL 慢查询、存储引擎、InnoDB 参数与主从复制
 

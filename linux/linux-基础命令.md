@@ -1,5 +1,4 @@
 ---
-type: Command
 status: Organized
 Belongs to: "[[Linux]]"
 Has:
@@ -16,6 +15,7 @@ Has:
 source: ""
 created: 2026-06-13
 updated: 2026-06-13
+type: Command
 ---
 
 # Linux 基础命令

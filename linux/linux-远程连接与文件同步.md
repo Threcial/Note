@@ -1,5 +1,4 @@
 ---
-type: Practice
 status: Organized
 Belongs to: "[[Linux]]"
 Related to:
@@ -11,6 +10,7 @@ Has:
 source: ""
 created: 2026-06-13
 updated: 2026-06-13
+type: Practice
 ---
 
 # 远程连接与文件同步

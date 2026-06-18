@@ -2,4 +2,4 @@
 type: Type
 ---
 
-# knowledge
+# Concept

@@ -1,5 +1,4 @@
 ---
-type: Concept
 status: Organized
 Belongs to: "[[Docker]]"
 Related to:
@@ -12,6 +11,7 @@ Has:
 source: ""
 created: 2026-06-14
 updated: 2026-06-14
+type: Concept
 ---
 
 # Docker 数据卷与网络
