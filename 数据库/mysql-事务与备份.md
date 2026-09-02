@@ -14,7 +14,6 @@ source:
 created: 2026-06-14
 updated: 2026-06-14
 ---
-
 # MySQL 事务与备份
 
 ## 事务
@@ -69,7 +68,7 @@ FLUSH PRIVILEGES;
 | `-d` | 只备份结构 |
 | `-t` | 只备份数据 |
 
-```bash
+```shellscript
 mysqldump -uroot -p -B xyj > xyj.sql
 mysqldump -uroot -p -d -B xyj > schema.sql
 mysqldump -uroot -p -B xyj | gzip > xyj.sql.gz
