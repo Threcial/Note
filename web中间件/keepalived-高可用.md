@@ -12,7 +12,6 @@ source: day18.md
 created: 2026-06-14
 updated: 2026-06-14
 ---
-
 # Keepalived 高可用
 
 Nginx 分发器本身可能成为单点。Keepalived 通过 VRRP 维护一个 VIP，让主节点故障后备节点接管。
@@ -21,7 +20,7 @@ Nginx 分发器本身可能成为单点。Keepalived 通过 VRRP 维护一个 VI
 
 ## MASTER 配置
 
-```nginx
+```ini
 global_defs {
     router_id wb01
 }
